@@ -24,7 +24,7 @@ Your tasks:
 - Solution is presented in Jupyter Notebook named **'Utopia_assignment.ipynb'**. With detailed comments.
 - Data set is zipped and uploaded in this repo.
 - Visualization is done in **Tableau**
-- Ouptput csv data from notbook is used in **Tableau** for visualization.
+- Output csv data from notbook is used in **Tableau** for visualization.
 
 ## How to run
 - Download the Note book load it in your Jupyter Lab.
