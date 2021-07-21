@@ -25,8 +25,10 @@ Your tasks:
 - Data set is zipped and uploaded in this repo.
 - Visualization is done in **Tableau**
 - Output csv data from notbook is used in **Tableau** for visualization.
+- Sample screenshot of Tableau Dashboard is attached named **'Utopia Music Consumption Insights_Tableau Dashboard.JPG'**.
 
 ## How to run
 - Download the Note book load it in your Jupyter Lab.
 - Download the data and unzip it in Jupyter's working directory. And run the notebook cells.
 - Last step in the notebook will create a csv file in the working directory. Use this for data visualization.
+- Link to Tableau Public dashboard is: https://public.tableau.com/views/UtopiaRadioFeedDashboard_Local/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
