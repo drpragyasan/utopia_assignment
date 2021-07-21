@@ -19,3 +19,14 @@ Your tasks:
 - Further clean the data as you deem approriate in order to perform an analysis on this dataset
 - Present the steps you have gone through for the data processing (eg. python notebook or any other data management tool you use)
 - Present any additional findings from the analysis you performed on the cleaned dataset in some visualisation tool (Tableau preferably but not mandatory)
+
+## Solution
+- Solution is presented in Jupyter Notebook named **'Utopia_assignment.ipynb'**. With detailed comments.
+- Data set is zipped and uploaded in this repo.
+- Visualization is done in **Tableau**
+- Ouptput csv data from notbook is used in **Tableau** for visualization.
+
+## How to run
+- Download the Note book load it in your Jupyter Lab.
+- Download the data and unzip it in Jupyter's working directory. And run the notebook cells.
+- Last step in the notebook will create a csv file in the working directory. Use this for data visualization.
